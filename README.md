@@ -7,6 +7,7 @@
 # 运行测试样例
 
 ```cmd
+npm i 或 cnpm i 或 yarn
 vue serve Test\xxx.vue
 ```
 
